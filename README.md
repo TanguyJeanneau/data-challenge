@@ -3,7 +3,7 @@
 ### Challenge for Master of Data Science, University of Lille - 2020
 https://www.kaggle.com/c/odhgdata/overview
 
-#Context
+# Context
 
 Recent virtual or augmented reality devices offer new 3D environment in which we need new and precise manner to interact. Hands can offer an intuitive and effective tool in these applications. Some gestures, as swipes, are more defined by the hand motion (called here coarse gesture) while others are defined by the hand shape through the gesture (called fine gesture). This difference between useful gestures have to be taken into account in a hand gesture recognition algorithm.
 
@@ -11,7 +11,7 @@ Effective and inexpensive depth sensors, like the Intel RealSense or the Leap Mo
 
 The Intel RealSense short range depth camera is used to collect our dataset.
 
-#References
+# References
 
 Quentin De Smedt, Hazem Wannous, Jean-Philippe Vandeborre: Heterogeneous hand gesture recognition using 3D dynamic skeletal data. Computer Vision and Image Understanding 181: 60-72 (2019)
 
